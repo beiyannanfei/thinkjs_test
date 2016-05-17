@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "F:workthinkjs_testf:workthinkjs_test",
+    "script": "www/production.js",
+    "cwd": "f:\work\thinkjs_test",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
